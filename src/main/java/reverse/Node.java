@@ -1,4 +1,4 @@
-package domain;
+package reverse;
 
 public class Node {
 	private int value;
